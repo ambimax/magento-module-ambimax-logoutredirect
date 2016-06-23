@@ -1,0 +1,3 @@
+src/app/code/community/Ambimax/LogoutRedirect                            app/code/community/Ambimax/LogoutRedirect
+src/app/etc/modules/Ambimax_LogoutRedirect.xml                           app/etc/modules/Ambimax_LogoutRedirect.xml                                          
+src/app/locale/de_DE/Ambimax_LogoutRedirect.csv                          app/locale/de_DE/Ambimax_LogoutRedirect.csv                                         

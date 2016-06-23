@@ -1,0 +1,15 @@
+{
+  "name": "ambimax/magento-module-ambimax-logoutredirect",
+  "type": "magento-module",
+  "description": "This module adds option to redirect to custom url after logout",
+  "homepage": "http://www.ambimax.de",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "authors":[
+    {
+      "name":"Tobias Schifftner",
+      "email":"ts@ambimax.de"
+    }
+  ]
+}
