@@ -1,5 +1,5 @@
 
-#  ambimax® LogutRedirect
+#  ambimax® LogoutRedirect
 
 This Magento eCommerce module allows to specify a custom url for redirect after logout.
 
