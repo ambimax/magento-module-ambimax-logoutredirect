@@ -9,12 +9,6 @@ For installation use composer or copy files manually.
 
 ### composer
 ```
-"repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/ambimax/magento-module-ambimax-logoutredirect"
-    }
-],
 "require": {
     "ambimax/magento-module-ambimax-logoutredirect": "~1.0"
 }
@@ -23,11 +17,11 @@ For installation use composer or copy files manually.
 ## Configuration
 
 To enable redirection go to ```System > Configuration > Customer > Startup``` and enter custom url
-
+ 
 ## License
 
-MIT / BSD
+[MIT License](http://choosealicense.com/licenses/mit/)
 
 ## Author Information
 
- - Tobias Schifftner, [@tschifftner](https://twitter.com/tschifftner)
+ - [Tobias Schifftner](https://twitter.com/tschifftner), [ambimax® GmbH](https://www.ambimax.de)
